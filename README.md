@@ -7,6 +7,6 @@
 3. Additional data cleaning
 4. Creation of final test and train datasets [4th_Final Data Cleaning.ipynb]
 5. Baseline modeling [5th_Baseline Model Performance.ipynb]
-6. Optimal modeling [6th_Modeling.ipynb]
+6. Modeling for optimization [6th_Modeling.ipynb]
 
 ### Project URL: xxx
